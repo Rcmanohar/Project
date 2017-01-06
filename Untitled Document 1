@@ -1,0 +1,112 @@
+ <!DOCTYPE html>
+<html>
+<head>
+<title>Tarams</title>
+</head>
+ <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<style>
+div.contain {
+    width: 100%;
+    border: 1px solid gray;
+}
+
+header, footer {
+    padding: 1em;
+    color: white;
+    background-color: black;
+    clear: left;
+    text-align: center;
+}
+
+article {
+    margin-left: 870px;
+    border-left: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
+
+
+
+</style>
+<body>
+<div class="contain">
+
+<header>
+   <h1><span style="color:red"><b><font size="8">Tarams</font></b></span>Technologies</a></h1>
+</header>
+</div>
+
+<div class="container">
+  <br>
+  <div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+      <li data-target="#myCarousel" data-slide-to="1"></li>
+      <li data-target="#myCarousel" data-slide-to="2"></li>
+      <li data-target="#myCarousel" data-slide-to="3"></li>
+    </ol>
+
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner" role="listbox">
+
+      <div class="item active">
+       <img src="/home/manohar/Downloads/ta1.png" alt="Chania" width="460" height="345">
+        <div class="carousel-caption">
+          <h3>We are Tarams Technologies</h3>
+          <p>The atmosphere in Tarams technologies has a touch of Florence and Venice.</p>
+        </div>
+      </div>
+
+      <div class="item">
+        <img src="/home/manohar/Downloads/ta.png"" alt="Chania" width="460" height="345">
+        <div class="carousel-caption">
+          <h3>Tarams</h3>
+          <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
+        </div>
+      </div>
+    
+      <div class="item">
+        <img src="/home/manohar/Downloads/tq3.jpeg" alt="Flower" width="460" height="345">
+        <div class="carousel-caption">
+          <h3>Tarams</h3>
+          <p>We offer intelligent services you need to tackle your most complex engineering challenges</p>
+        </div>
+      </div>
+
+      <div class="item">
+        <img src="/home/manohar/Downloads/ta4.jpg	" alt="Flower" width="460" height="345">
+        <div class="carousel-caption">
+          <h3>Tarams</h3>
+          <p>Beatiful flowers in Kolymbari, Crete.</p>
+        </div>
+      </div>
+  
+    </div>
+</div>
+ 
+<h><style="color:blue"><b><font size="5">What we do? :</font></b></style></h>
+
+<p>At Tarams, our team of industry and technology experts come together to help you devise the right plan and select the best solution for your business. </p>
+</br>
+</br>
+
+<article>
+
+<a href="/home/manohar/training projects/04-01/Untitled Document 3"><button type="button" class="btn btn-info btn-lg">contact us</button></a>
+</article>      
+</br>
+</br>
+  
+
+
+
+<footer>Copyright &copy;TaramsTechnologies .com</footer>
+
+
+</body>
+</html> 

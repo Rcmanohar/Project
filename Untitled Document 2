@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+
+footer{
+    padding: 1em;
+    color: black;
+    background-color:GhostWhite ;
+    clear: right;
+    text-align:left ;
+    size:10px;
+
+
+}
+</style>
+</head>
+<body>
+<ul>
+  <li><a href="#about">About</a></li>
+  <li><a href="#contact">contact</a></li>
+  <li><a href="#image">Images</a></li>
+  <li><a href="#Gmail">Mail</a></li>
+</ul>
+</br>
+</br>
+<div align="center">
+			
+
+<center><img src="/home/manohar/Downloads/googles-new-logo-5078286822539264.3-hp2x.gif" alt="Mountain View" style="width:304px;height:228px;"></center>
+<input type="text" name="search bar"style="width:500px "></br>
+</br>
+<button type="button" class="btn btn-default">Google search</button>
+<button type="button" class="btn btn-default">I'm Feeling Lucky</button>
+  
+
+
+
+<!-- <center> <h1><b><span style="color:blue"><font size="10">G</font></span> <span style="color:red"><font size="8">o</font></span> <span style="color:yellow"><font size="8">o</font></span> <span style="color:blue"><font size="8">g</font></span> <span style="color:green"><font size="8">l</font></span> <span style="color:red"><font size="8">e</font></span></b></h1></center>-->
+ </div>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+<div class="footer">
+<footer>Avertising  Business  About</footer>
+</div>
+</div>
+
+</body>
+</html>
+

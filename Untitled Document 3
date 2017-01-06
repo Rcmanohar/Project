@@ -1,0 +1,87 @@
+<html>
+<head> </head>
+<meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<style>
+div.contain {
+    width: 100%;
+    border: 1px solid gray;
+}
+
+header, footer {
+    padding: 1em;
+    color: white;
+    background-color: black;
+    clear: left;
+    text-align: center;
+}
+div.aside{
+padding:5px;
+color:blue;
+}
+
+
+
+
+</style>
+
+
+<body >
+<div class="contain">
+
+<header>
+   <h1><span style="color:red"><b><font size="8">Tarams</font></b></span>Technologies</a></h1>
+</header>
+</div>
+</br>
+
+
+	<form tag="Create Logon">
+		<div align="center">
+			
+			<table>
+<tr>
+<td>User Name:</td>
+<td><input type="text" name="name"></td>
+</tr>
+<tr>
+<td>Password:</td>
+<td><input type="text" name="password"></td>
+</tr>
+<tr>
+<td>Mobile No:</td>
+<td><input type="text" name="mobile"></td>
+</tr>
+<tr>
+<td>Email:</td>
+<td><input type="email" name="email"></td>
+</tr>
+<tr>
+<td>Addres:</td>
+<td><input type="texta" width="20" height="10" name="address"></td>
+</tr>
+<tr>
+</br>
+<td><input type="submit" value="Register">
+<td><input type="reset" value="Reset">
+</tr>
+</table>
+</form>
+</br>
+</br>
+</br>
+
+
+
+<p>Note: Please make sure your details are correct before submitting we well  come to get you soon.</p>
+</br>
+</br>
+</br>
+
+<footer>Copyright &copy;TaramsTechnologies .com</footer>
+
+</body>
+</html>
